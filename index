@@ -3,13 +3,39 @@
 <index version="1.0" name="Acrosonus_Mastering_Studio">
 
   <!-- Scripts -->
-  <category name="utility">
+  <category name="Utility">
     <reapack name="VoxAlign" type="script" desc="VoxAlign = Vocalign">
      <version name="1.0" author="Acrosonus Mastering Studio" time="08-06-2025">
         <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VOXALIGN/refs/heads/main/Script/VOXALIGN_V1.lua</source>
       </version>
     </reapack>
   </category>
+
+<category name="Utility">
+    <reapack name="VocalVolumeMacro" type="script" desc="VocalVolumeMacro = Melodyne volume macro">
+     <version name="1.5" author="Acrosonus Mastering Studio" time="08-06-2025">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VocalVolumeMacro/refs/heads/main/Script/VocalVolumeMacro_V1.5.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+<category name="MIDI">
+    <reapack name="MIDISTRUCTVARIATIONS" type="script" desc="MIDISTRUCTVARIATIONS = creat 12 midi variations from 1 MIDI">
+     <version name="2" author="Acrosonus Mastering Studio" time="08-06-2025">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/MIDISTRUCTVARIATIONS/refs/heads/main/Script/midistruct_Variations_v2.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+<category name="MIDI">
+    <reapack name="MIDISTRUCT" type="script" desc="VocalVolumeMacro = MIDISTRUCT = Algo composer MIDI">
+     <version name="2.2" author="Acrosonus Mastering Studio" time="08-06-2025">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/MIDISTRUCT/refs/heads/main/Script/midistruct_v2_2_master_edition.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+
 
 
 </index>
