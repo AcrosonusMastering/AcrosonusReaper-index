@@ -1,23 +1,15 @@
 
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1.0" name="main folder name here">
+<index version="1.0" name="Acrosonus_Mastering_Studio">
 
   <!-- Scripts -->
-  <category name="sub folder name here">
-    <reapack name="script name" type="script" desc="script name">
-     <version name="1.0" author="your name here" time="08-06-2025">
-        <source main="main">paste raw link here</source>
+  <category name="utility">
+    <reapack name="VoxAlign" type="script" desc="VoxAlign = Vocalign">
+     <version name="1.0" author="Acrosonus Mastering Studio" time="08-06-2025">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/VOXALIGN/refs/heads/main/Script/VOXALIGN_V1.lua</source>
       </version>
     </reapack>
   </category>
 
-  <!-- Effects -->
-  <category name="sub folder name here">
-    <reapack name="script name" type="effect" desc="script name">
-      <version name="1.0" author="your name here" time="08-06-2025">
-        <source main="main">paste raw link here</source>
-      </version>
-    </reapack>
-  </category>
 
 </index>
