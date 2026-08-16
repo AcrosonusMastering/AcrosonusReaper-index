@@ -25,8 +25,8 @@
     </reapack>
 
     <reapack name="MIDISTRUCT.lua" type="script" desc="MIDISTRUCT = Algo composer MIDI">
-      <version name="2.2" author="Acrosonus Mastering Studio" time="08-06-2025">
-        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/MIDISTRUCT/refs/heads/main/Script/midistruct_v2_2_master_edition.lua</source>
+      <version name="2.4" author="Acrosonus Mastering Studio" time="08-06-2025">
+        <source main="main">https://raw.githubusercontent.com/AcrosonusMastering/MIDISTRUCT/refs/heads/main/Script/MIDISTRUCT_v2_4.lua</source>
       </version>
     </reapack>
   </category>
